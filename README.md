@@ -5,10 +5,10 @@
 Aday Labs
 
 ## Состав/Developers:
-Айсұлтан Кайпиев/Aisultan Kaipiyev	
-Арсен Әбдіғали/Arsen Abdigali	
-Арсений Мезенцев/Arsenis Mezentsev
-Алдияр Сериков/Aldiyar Serikov
+Айсұлтан Кайпиев/Aisultan Kaipiyev,
+Арсен Әбдіғали/Arsen Abdigali,	
+Арсений Мезенцев/Arsenis Mezentsev,
+Алдияр Сериков/Aldiyar Serikov,
 Алмаз Балгали/Almaz Bagali
 
 ## Темы Хакатона/Hackathon Topics:
